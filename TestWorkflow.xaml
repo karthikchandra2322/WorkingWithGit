@@ -80,7 +80,7 @@
         <OutArgument x:TypeArguments="x:String">[Str_Name]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="x:String">Chandra</InArgument>
+        <InArgument x:TypeArguments="x:String">Sirimalla</InArgument>
       </Assign.Value>
     </Assign>
     <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="433.6,85.6" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[Str_Name]" />
